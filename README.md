@@ -22,7 +22,7 @@ In this project, a Convolutional Neural Network (CNN) model has been implemented
 
 ## Dataset:
 - **Name:** CIFAR-10
-- **Classes:** 10 (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck)
+- **Classes:** 10 
 - **Training Samples:** 50,000
 - **Test Samples:** 10,000
 - **Image Size:** 32x32 pixels with 3 color channels (RGB)
@@ -45,8 +45,8 @@ The model is trained with the following configurations:
 
 ## Evaluation:
 The model is evaluated on the test set to measure its performance. Performance metrics include:
-- **Accuracy** 
-- **Loss** 
+- Accuracy
+- Loss 
 
 ## Results:
 | Metric         | Training Accuracy | Test Accuracy |
